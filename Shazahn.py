@@ -1,4 +1,4 @@
-# Auther : Binyamin
+# Auther : Shazahn Howladear
 # GitHub : https://github.com/Binyamin-binni
 # WhatsApp :01931192399
 import base64
